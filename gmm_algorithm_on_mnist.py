@@ -1,3 +1,5 @@
+# @Author: Yanlin Qi
+
 from mnist.loader import MNIST
 import numpy as np
 from scipy.stats import multivariate_normal
